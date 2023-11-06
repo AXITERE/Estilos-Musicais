@@ -1,4 +1,4 @@
-.Estilos_musicais{
+.estilos__musicais{
 background: #000000;
 text-align: center;
 padding: 20px 0;
@@ -28,4 +28,5 @@ padding: 20px 0;
     font-family: 'Poppins', sans-serif;
     font-size: 14px;
     font-weight: 700;
+    padding: ;
 }
